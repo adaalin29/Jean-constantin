@@ -1,0 +1,22 @@
+<svg id="date" xmlns="http://www.w3.org/2000/svg" width="21.885" height="21.885" viewBox="0 0 21.885 21.885">
+  <g id="Group_11" data-name="Group 11" transform="translate(4.69)">
+    <g id="Group_10" data-name="Group 10">
+      <path id="Path_16" data-name="Path 16" d="M103.182,0a.782.782,0,0,0-.782.782V2.345h1.563V.782A.782.782,0,0,0,103.182,0Z" transform="translate(-102.4)" fill="#ffb84d"/>
+    </g>
+  </g>
+  <g id="Group_13" data-name="Group 13" transform="translate(15.632)">
+    <g id="Group_12" data-name="Group 12">
+      <path id="Path_17" data-name="Path 17" d="M342.115,0a.782.782,0,0,0-.782.782V2.345H342.9V.782A.782.782,0,0,0,342.115,0Z" transform="translate(-341.333)" fill="#ffb84d"/>
+    </g>
+  </g>
+  <g id="Group_15" data-name="Group 15" transform="translate(0 2.345)">
+    <g id="Group_14" data-name="Group 14">
+      <path id="Path_18" data-name="Path 18" d="M19.54,51.2H17.2v3.126a.782.782,0,0,1-1.563,0V51.2H6.253v3.126a.782.782,0,0,1-1.563,0V51.2H2.345A2.345,2.345,0,0,0,0,53.545V68.4A2.345,2.345,0,0,0,2.345,70.74h17.2A2.345,2.345,0,0,0,21.885,68.4V53.545A2.345,2.345,0,0,0,19.54,51.2Zm.782,17.2a.782.782,0,0,1-.782.782H2.345a.782.782,0,0,1-.782-.782V58.234H20.321Z" transform="translate(0 -51.2)" fill="#ffb84d"/>
+    </g>
+  </g>
+  <g id="Group_17" data-name="Group 17" transform="translate(5.471 10.943)">
+    <g id="Group_16" data-name="Group 16">
+      <path id="Path_19" data-name="Path 19" d="M130.177,239.167a.782.782,0,0,0-1.106,0l-5.7,5.7-2.574-2.574a.782.782,0,0,0-1.105,1.106l3.126,3.126a.782.782,0,0,0,1.105,0l6.253-6.253A.782.782,0,0,0,130.177,239.167Z" transform="translate(-119.463 -238.938)" fill="#ffb84d"/>
+    </g>
+  </g>
+</svg>

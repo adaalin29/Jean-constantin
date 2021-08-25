@@ -1,0 +1,12 @@
+<svg id="view" xmlns="http://www.w3.org/2000/svg" width="31.171" height="19.868" viewBox="0 0 31.171 19.868">
+  <g id="Group_31" data-name="Group 31" transform="translate(0 0)">
+    <g id="Group_30" data-name="Group 30" transform="translate(0 0)">
+      <path id="Path_30" data-name="Path 30" d="M30.973,102.162c-.278-.381-6.914-9.327-15.388-9.327S.476,101.782.2,102.162a1.029,1.029,0,0,0,0,1.213c.278.381,6.914,9.327,15.388,9.327s15.109-8.947,15.388-9.327A1.027,1.027,0,0,0,30.973,102.162Zm-15.388,8.485c-6.242,0-11.649-5.938-13.249-7.879,1.6-1.943,6.993-7.878,13.249-7.878s11.648,5.937,13.249,7.879C27.236,104.712,21.841,110.647,15.586,110.647Z" transform="translate(0 -92.835)" fill="#ffb84d"/>
+    </g>
+  </g>
+  <g id="Group_33" data-name="Group 33" transform="translate(9.42 3.768)">
+    <g id="Group_32" data-name="Group 32" transform="translate(0 0)">
+      <path id="Path_31" data-name="Path 31" d="M160.888,154.725a6.166,6.166,0,1,0,6.166,6.166A6.173,6.173,0,0,0,160.888,154.725Zm0,10.276a4.11,4.11,0,1,1,4.11-4.11A4.115,4.115,0,0,1,160.888,165Z" transform="translate(-154.722 -154.725)" fill="#ffb84d"/>
+    </g>
+  </g>
+</svg>
